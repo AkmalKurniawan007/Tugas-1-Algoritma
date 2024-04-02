@@ -8,6 +8,9 @@ Kelas : 2B
 
 Tugas Menentukan Nilai dan Kelulusan 
 
+![Blank diagram](https://github.com/AkmalKurniawan007/Tugas-1-Algoritma/assets/148427738/7c790407-2174-4582-a84c-396e43cfe662)
+
+
 Dalam Program ini mengetahui sebuah nilai dengan angka grade 
 
 dan kelulusan. Awal User di minta memasukan Input Nama, 
